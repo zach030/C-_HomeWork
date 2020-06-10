@@ -1,0 +1,6 @@
+﻿  func.cpp
+  main.cpp
+  正在生成代码...
+d:\unicourse\c++\school\work13\project4\project4\head.h(77): warning C4715: “CDate::GetMonthNameofDate”: 不是所有的控件路径都返回值
+d:\unicourse\c++\school\work13\project4\project4\head.h(60): warning C4715: “CDate::GetWeekNameofDate”: 不是所有的控件路径都返回值
+  Project4.vcxproj -> D:\UniCourse\C++\School\work13\Project4\x64\Debug\Project4.exe

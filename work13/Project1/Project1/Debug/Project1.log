@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Matrix::Matrix(int,int)" (??0Matrix@@QAE@HH@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 "public: static int Matrix::m" (?m@Matrix@@2HA)
+main.obj : error LNK2001: 无法解析的外部符号 "public: static int Matrix::n" (?n@Matrix@@2HA)
+D:\UniCourse\C++\School\work13\Project1\Debug\Project2.exe : fatal error LNK1120: 3 个无法解析的外部命令

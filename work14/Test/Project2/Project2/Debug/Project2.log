@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\unicourse\c++\school\work14\project2\project2\main.cpp(11): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\unicourse\c++\school\work14\project2\project2\main.cpp(13): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project2.vcxproj -> D:\UniCourse\C++\School\work14\Project2\Debug\Project2.exe

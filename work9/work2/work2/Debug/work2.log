@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\unicourse\c++\school\week9\work2\work2\main.cpp(2): warning C4326: “main”的返回类型应为“int”而非“void”
+  work2.vcxproj -> D:\UniCourse\C++\School\week9\work2\Debug\work2.exe

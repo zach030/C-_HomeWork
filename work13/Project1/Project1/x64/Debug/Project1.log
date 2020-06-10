@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\unicourse\c++\school\work13\project1\project1\head.h(46): warning C4715: “operator+”: 不是所有的控件路径都返回值
+d:\unicourse\c++\school\work13\project1\project1\head.h(58): warning C4715: “operator-”: 不是所有的控件路径都返回值
+d:\unicourse\c++\school\work13\project1\project1\head.h(72): warning C4715: “operator*”: 不是所有的控件路径都返回值
+d:\unicourse\c++\school\work13\project1\project1\head.h(85): warning C4715: “operator/”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\UniCourse\C++\School\work13\Project1\x64\Debug\Project2.exe

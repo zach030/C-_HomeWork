@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\unicourse\c++\school\work14\project2\project2\head.h(44): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\unicourse\c++\school\work14\project2\project2\head.h(73): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> D:\UniCourse\C++\School\work14\Project2\Debug\Project2.exe

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583140518 source:d:\unicourse\c++\school\work2\homework1\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<cstdio>
+
